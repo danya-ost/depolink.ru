@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b4857195-2d9a-4c56-ad01-cc4d5a30f67a" name="37.140.192.241" url="http://37.140.192.241">
+        <fileTransfer rootFolder="/www/lk.balabaev-production.ru" accessType="FTPS" host="37.140.192.241" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
